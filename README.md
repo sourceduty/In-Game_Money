@@ -9,6 +9,10 @@
 In addition to offering technical advice, "In-Game Money" also considers ethical aspects of game design, such as avoiding pay-to-win mechanics and ensuring that in-game purchases do not negatively impact the experience for non-paying players. It aims to balance profitability with player engagement by recommending practices that respect player agency and create a level playing field. It focuses on practical, actionable advice, ensuring that developers can implement its suggestions effectively within their games. This GPT is a valuable tool for game designers looking to craft compelling and sustainable in-game economies.
 
 #
+
+![Money Cash](https://github.com/user-attachments/assets/71076892-94a1-4d7a-b94d-1d2c9ef1e3af)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
